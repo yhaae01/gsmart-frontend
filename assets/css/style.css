@@ -1,0 +1,90 @@
+/* begin style for login page */
+.px-30 {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.mt-85 {
+  margin-top: 85px;
+}
+.mt-90 {
+  margin-top: 90px;
+}
+.mt-100 {
+  margin-top: 100px;
+}
+.mt-230 {
+  margin-top: 230px;
+}
+.mt-250 {
+  margin-top: 250px;
+}
+.mb-100 {
+  margin-bottom: 100px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-50 {
+  margin-bottom: 50px;
+}
+.mb-85 {
+  margin-bottom: 85px;
+}
+.ms-50 {
+  margin-left: 50px;
+}
+.ms-40 {
+  margin-left: 40px;
+}
+.fs-large {
+  font-size: 50px;
+}
+.bg-background {
+  background-image: url('~assets/media/bg/bg-image.png');
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.bg-color {
+  background-color: white;
+  background-size:cover;
+}
+
+@media only screen and (max-width: 600px) {
+  h1.fw-bold.mb-50.mt-85.text-center.top-margin {
+    margin-top: 30px;
+  }
+}
+
+
+.mx-c {
+  width: max-content
+}
+.row.justify-content-center.ms-0.me-0 {
+  width: 100vw;
+}
+
+.logo-size {
+  width: 15vw; margin-top: 8vh; margin-left: 0.5vw
+}
+
+.blok.mb-5 {
+  width: 80px; height: 8px; background-color: white;
+}
+
+.col-md-3.px-0.bg-color.d-flex.align-items-center.justify-content-center {
+  height: 100vh; width: 25vw
+}
+
+.mt-vh {
+  margin-top: 40vh
+}
+/* end style for login page */
